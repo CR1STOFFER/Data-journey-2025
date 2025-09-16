@@ -1,0 +1,7 @@
+-- consultas.sql
+-- Coloque aqui suas consultas de estudo.
+-- Exemplo (Northwind/Sakila):
+-- SELECT c.Country, COUNT(*) AS NumCustomers
+-- FROM Customers c
+-- GROUP BY c.Country
+-- ORDER BY NumCustomers DESC;
